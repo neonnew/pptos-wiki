@@ -6,66 +6,8 @@
 
 ## neonOS
 
-<a>
-  <img align="left" height="100" alt="pfp" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/NeonOS_logo_2.png" />
-</a>
-
-|                           |                               |
-| ------------------------- | ----------------------------- |
-| **Programmed In**         | PowerPoint                    |
-| **OS Family**             | neonOS                        |
-| **First Release**         | Neon OS 0.0.1                 |
-| **Latest OS Development** | neonOS Codename: Fluent       |
-| **Latest Stable Release** | neonOS 1.2                    |
-
-### About
-
-neonOS is the new PPTOS and a not good PPTOS because it doesn't have vba.
-
-## History
-### neonOS 0.0.1 (Bulid 210529)
- - Added Setting, About and Personalize
-### neonOS 1.0 (Bulid 210610)
- - Updated Startup Screen
- - Updated Dock
- - First major version of neonOS
- - Added Dashboard
- - Added nPlayer
- - Added PPT Game
- - Deleted Setting and Personalize
-### neonOS 1.1 (Bulid 210612)
- - Very frist puplic version of neonOS
- - Added Clock
- - Change file type fron .pptx to .pptm
-### neonOS 1.2 (Bulid 210710)
- - Updated Dock
- - Added Wigdets
- - Added nScan
- - Change the name PPT Game to Wall Game
- - Updated Dashboard
- - Modern Design
-### neonOS 1X (Bulid 210810)
- - Updated Startup Screen
- - Updated Log in Screen
- - Deleted Wall Game
- - Added Toolbar
- - Added nBrowser
- - Added nNews
- - Updated Dashboard
- - Updated Dock
- - Updated Log in Screen
-### neonOS Codename: Fluent
- - Fluent Design
- - Updated Log in Screen
- - Updated Icons
-## Screenshot
-
-> neonOS Codename: Fluent Desktop
-![1](https://commons.wikimedia.org/wiki/File:NDesktop.png)
-#### Downloads
-
-- neonOS Codename: Fluent
-    - [neonOS Codename: Fluent](https://github.com/neonnew/pptos-wiki/raw/gh-pages/files/neonOS/neonOS%201X%20210820.pptm)
+It's not a active PPTOS anymore. It's dead now. Nothing to see here.
+OR IS IT? There's a new one in the making! Please dont get 1% hyped!
 
 
 <body style="background-image: url(https://raw.githubusercontent.com/hexa-one/pptos-wiki/gh-pages/assets/background/background.png);background-repeat: no-repeat;background-attachment: fixed;background-size: cover;">
